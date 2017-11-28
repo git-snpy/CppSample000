@@ -13,6 +13,7 @@
 
 #include <cstdlib>
 #include <iostream>
+#include <boost/algorithm/string>
 
 using namespace std;
 

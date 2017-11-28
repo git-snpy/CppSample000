@@ -31,8 +31,16 @@
       <compileType>
         <ccTool>
           <standard>11</standard>
+          <incDir>
+            <pElem>C:/Users/inoue/boost_1_65_1/</pElem>
+          </incDir>
           <warningLevel>0</warningLevel>
         </ccTool>
+        <linkerTool>
+          <linkerAddLib>
+            <pElem>C:/Users/inoue/boost_1_65_1/</pElem>
+          </linkerAddLib>
+        </linkerTool>
       </compileType>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
