@@ -32,13 +32,13 @@
         <ccTool>
           <standard>11</standard>
           <incDir>
-            <pElem>C:/Users/inoue/boost_1_65_1/</pElem>
+            <pElem>C:/Users/inoue/boost_1_65_1/boost/include</pElem>
           </incDir>
           <warningLevel>0</warningLevel>
         </ccTool>
         <linkerTool>
           <linkerAddLib>
-            <pElem>C:/Users/inoue/boost_1_65_1/</pElem>
+            <pElem>C:/Users/inoue/boost_1_65_1/boost/lib</pElem>
           </linkerAddLib>
         </linkerTool>
       </compileType>

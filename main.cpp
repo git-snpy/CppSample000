@@ -13,7 +13,7 @@
 
 #include <cstdlib>
 #include <iostream>
-#include <boost/algorithm/string>
+#include <boost/numeric/interval.hpp>
 
 using namespace std;
 
